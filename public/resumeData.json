@@ -101,13 +101,13 @@
 				"title": "Dev Project Tracker (Java, MySQL, SprinBoot)",
 				"category": "",
 				"image": "DevProjectTracker.png",
-				"url": "http://35.165.142.51/projects"
+				"url": "https://github.com/fdrive422/DevProjectTracker"
 			},
 			{
 				"title": "Rental Ratings (Java, MySQL, SprngBoot)",
 				"category": "",
 				"image": "RentalRatings.png",
-				"url": "http://54.151.68.144/dashboard"
+				"url": "https://github.com/fdrive422/RentalRatings"
 			},
 			{
 				"title": "Uber Clone 2.0 (React Native, Redux, Google Map API)",
