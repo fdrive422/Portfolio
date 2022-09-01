@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             <li>
               Made by{" "}
               <a title="FDrive" href="http://www.fdrive.com/">
-                KIKO
+                fdrive
               </a>
             </li>
           </ul>
