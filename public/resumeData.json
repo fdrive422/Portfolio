@@ -4,7 +4,7 @@
 		"occupation": "Software Developer",
 		"description": "I eat, sleep and breathe code",
 		"image": "profilepic.jpg",
-		"bio": "Hi, I am Francis! I've been coding for just over 2 years. As a Full Stack Developer I've worked with three programming stacks - Python, Java, and MERN. I continue to build my knowledge in programming while discoveirng new techniques and solutions with each project I create. The process is rewarding and the journey motivating. I enjoy collaborating with others and contribute my skills and experience whenever I can. ",
+		"bio": "Hi, I am Francis! I've been coding for just over 2 years. As a Full Stack Developer I've worked with three programming stacks - Python, Java, and MERN. I continue to build my knowledge in programming while discoveirng new techniques and solutions with each project I create. The process is rewarding and the journey motivating. I enjoy collaborating with others and contribute my skills and experience whenever I can.",
 		"contactmessage": "Get in touch with me!",
 		"email": "fafrago@gmail.com",
 		"phone": "+13104615012",
@@ -98,26 +98,26 @@
 	"portfolio": {
 		"projects": [
 			{
-				"title": "Dev Project Tracker (Java, MySQL, SprinBoot)",
-				"category": "",
+				"title": "Dev Project Tracker",
+				"category": "Java, MySQL, SprinBoot",
 				"image": "DevProjectTracker.png",
 				"url": "https://github.com/fdrive422/DevProjectTracker"
 			},
 			{
-				"title": "Rental Ratings (Java, MySQL, SprngBoot)",
-				"category": "",
+				"title": "Rental Ratings",
+				"category": "Java, MySQL, SprinBoot",
 				"image": "RentalRatings.png",
 				"url": "https://github.com/fdrive422/RentalRatings"
 			},
 			{
-				"title": "Uber Clone 2.0 (React Native, Redux, Google Map API)",
-				"category": "",
+				"title": "Uber Clone",
+				"category": "React Native, Redux, Google Map API",
 				"image": "UberClone.png",
 				"url": "https://github.com/fdrive422/Uber-2.0-Clone"
 			},
 			{
-				"title": "Pizza Time (Python, Flask, MySQL)",
-				"category": "",
+				"title": "Pizza Time",
+				"category": "Python, Flask, MySQL",
 				"image": "PizzaTime.png",
 				"url": "https://github.com/fdrive422/PizzaTime"
 			}
