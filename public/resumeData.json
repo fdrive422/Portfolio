@@ -1,10 +1,10 @@
 {
 	"main": {
 		"name": "Francis Frago",
-		"occupation": "Software Developer",
+		"occupation": "Full Stack Software Developer",
 		"description": "I eat, sleep and breathe code",
 		"image": "profilepic.jpg",
-		"bio": "Hi, I am Francis! I've been coding for just over 2 years. As a Full Stack Developer I've worked with three programming stacks - Python, Java, and MERN. I continue to build my knowledge in programming while discoveirng new techniques and solutions with each project I create. The process is rewarding and the journey motivating. I enjoy collaborating with others and contribute my skills and experience whenever I can.",
+		"bio": "Hi, I am Francis! I've been coding for 2 years. As a Full Stack Developer I've worked with three programming stacks - Python, Java, and MERN. I continue to build my knowledge in programming while discovering new techniques and solutions with each project I create. The process is rewarding and the journey motivating. I enjoy collaborating with others and contribute my skills and experience whenever I can.",
 		"contactmessage": "Get in touch with me!",
 		"email": "fafrago@gmail.com",
 		"phone": "+13104615012",
@@ -56,7 +56,7 @@
 		],
 		"work": [
 			{
-				"company": "Freelance",
+				"company": "Freelance Developer",
 				"title": "Full Stack Developer",
 				"years": "May 2022 - Present",
 				"description": "Web Design & Mobile App Development"
@@ -116,9 +116,9 @@
 				"url": "https://github.com/fdrive422/Uber-2.0-Clone"
 			},
 			{
-				"title": "Pizza Time",
+				"title": "Pizza Hub",
 				"category": "Python, Flask, MySQL",
-				"image": "PizzaTime.png",
+				"image": "PizzaHub.png",
 				"url": "https://github.com/fdrive422/PizzaTime"
 			}
 		]
