@@ -1,4 +1,4 @@
-# React JS Resume Starter Pack and Digital Portfolio
+# React JS Resume | Digital Portfolio
 
 ![React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "React JS Portfolio Stater Pack ")
 
