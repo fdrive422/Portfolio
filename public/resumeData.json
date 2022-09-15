@@ -118,14 +118,8 @@
 			{
 				"title": "LinkedIn Clone",
 				"category": "ReactJS, Redux, Firebase",
-				"image": "LinkedinClone.png",
+				"image": "Linkedin-clone.png",
 				"url": "https://github.com/fdrive422/LinkedIn-Clone"
-			},
-			{
-				"title": "Pizza Hub",
-				"category": "Python, Flask, MySQL",
-				"image": "PizzaHub.png",
-				"url": "https://github.com/fdrive422/PizzaTime"
 			}
 		]
 	},
