@@ -1,8 +1,8 @@
 # React JS Resume | Digital Portfolio
 
-![React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "React JS Portfolio Stater Pack ")
-
 ### <a href="https://www.fdrivefsdev.com/#home">LIVE DEMO</a>
+
+![React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "React JS Portfolio Stater Pack ")
 
 ## Resume Starter Pack Description
 
