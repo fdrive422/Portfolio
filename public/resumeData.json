@@ -1,7 +1,7 @@
 {
 	"main": {
 		"name": "Francis Frago",
-		"occupation": "Full Stack Software Developer",
+		"occupation": "Full Stack Software Engineer",
 		"description": "I eat, sleep and breathe code",
 		"image": "profilepic.jpg",
 		"bio": "Hey there, the name is Francis! I've been coding for 2 years and I am a certified Full Stack Developer in three programming languages - Python, Java, and MERN. I have a passion for learning new technologies and expanding my programming knowledge while discovering new techniques and solutions with each software project I create. The process is very rewarding and the journey keeps me motivated. I enjoy collaborating and contributing my skills and experience whenever I can. I come from a business management background with 10+ years experience overseeing daily business operations in the airline logistics field. I'd love to work with you on creative new projects!",
@@ -9,10 +9,10 @@
 		"email": "fafrago@gmail.com",
 		"phone": "+13104615012",
 		"address": {
-			"street": "Stonewood Ct",
-			"city": "San Pedro",
+			"street": "SoCal",
+			"city": "Los Angeles",
 			"state": "California",
-			"zip": "90732"
+			"zip": "USA "
 		},
 		"website": "https://github.com/fdrive422",
 		"resumedownload": "http://www.linkedin.com/in/ffrago",
@@ -56,26 +56,26 @@
 		],
 		"work": [
 			{
-				"company": "Freelance Developer",
-				"title": "Full Stack Developer",
-				"years": "May 2022 - Present",
-				"description": "Web Design & Mobile App Development"
+				"company": "Freelancer",
+				"title": "Software Engineer",
+				"years": "July 2022 - Present",
+				"description": "Web & Mobile Software Development"
 			},
 			{
 				"company": "Air Fayre",
-				"title": "Director, GM of Operations",
+				"title": "General Manager of Operations",
 				"years": "November 2009 - Present",
 				"description": "Leading a logistic service provider in the aviation industry."
 			}
 		],
 		"skills": [
 			{
-				"name": "ReactJs",
-				"level": "75%"
+				"name": "ReactJS",
+				"level": "85%"
 			},
 			{
 				"name": "Python",
-				"level": "75%"
+				"level": "80%"
 			},
 			{
 				"name": "Java",
@@ -83,15 +83,15 @@
 			},
 			{
 				"name": "Git",
-				"level": "70%"
+				"level": "90%"
 			},
 			{
 				"name": "JavaScript",
-				"level": "80%"
+				"level": "85%"
 			},
 			{
 				"name": "Web Development",
-				"level": "85%"
+				"level": "90%"
 			}
 		]
 	},
