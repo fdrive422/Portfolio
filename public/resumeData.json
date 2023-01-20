@@ -51,7 +51,7 @@
 				"school": "Coding Dojo",
 				"degree": "Full Stack Software Development",
 				"graduated": "July 2022",
-				"description": "Belt Certificaiotn in Python, Java, and MERN"
+				"description": "Belt Certification in Python, Java, and MERN"
 			}
 		],
 		"work": [
@@ -99,13 +99,13 @@
 		"projects": [
 			{
 				"title": "Dev Project Tracker",
-				"category": "Java, MySQL, SprinBoot",
+				"category": "Java, MySQL, SpringBoot",
 				"image": "DevProjectTracker.png",
 				"url": "https://github.com/fdrive422/DevProjectTracker"
 			},
 			{
 				"title": "Rental Ratings",
-				"category": "Java, MySQL, SprinBoot",
+				"category": "Java, MySQL, SpringBoot",
 				"image": "RentalRatings.png",
 				"url": "https://github.com/fdrive422/RentalRatings"
 			},
